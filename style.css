@@ -197,12 +197,6 @@ a p{
     letter-spacing: 2px;
 }
 
-@media (max-height:777px){
-    .card{
-        padding: 0 20px;
-    }
-}
-
 
 @media (max-width:700px) {
     .card{
